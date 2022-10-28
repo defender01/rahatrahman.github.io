@@ -11,9 +11,9 @@ title                    : "Rahat Rizvi Rahman"
 title_separator          : "-"
 name                     : &name "Rahat Rizvi Rahman"
 description              : &description "personal description"
-url                      : https://defender01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rahatrizvirahman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "defender01/rahatrahman.github.io"
+repository               : "rahatrizvirahman/rahatrizvirahman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "defender01"
+  github           : "rahatrizvirahman"
   google_plus      :
   keybase          :
   instagram        :
