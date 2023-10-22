@@ -10,10 +10,11 @@ redirect_from:
 
 Hi, this is Rahat.
 
-I am currently working as research assistant at [Artificial Intelligence and Cybernetics (AGenCy) Lab, Independent University Bangladesh](https://agencylab.github.io/). I am also working as a software engineer at [Enosis Solutions](https://www.enosisbd.com/). I received my bachelor’s degree in Computer Science and Engineering from the [University of Dhaka](https://www.cse.du.ac.bd/).
+I am working as a software engineer at [Enosis Solutions](https://www.enosisbd.com/). I also work as a research assistant at the [Center for Computational & Data Sciences (CCDS), Independent University Bangladesh](https://agencylab.github.io/). I received my bachelor’s degree in Computer Science and Engineering from the [University of Dhaka](https://www.cse.du.ac.bd/).
 
 News
 ======
+- **[September 2023]** Started working at [CCDS, Independendent University Bangladesh](https://ccds.ai/) as a Research Assistant
 - **[February 2022]** Started working at [AGenCy Lab, Independendent University Bangladesh](https://agencylab.github.io/) as a Research Assistant
 - **[November 2021]** Joined [Enosis Solutions](https://www.enosisbd.com/) as a software engineer.
 - **[June 2021]** Successfully defended undergraduate thesis.
@@ -27,7 +28,10 @@ Education
 
 Research Experience
 ======
-- Research Assistant [February 2022 - Present] <br>
+- Research Assistant [Sept 2023 - Present] <br>
+  Center for Computational \& Data Sciences (CCDS), Independent University Bangladesh ([CCDS @ IUB](https://ccds.ai/)) <br>
+  Dhaka, Bangladesh
+- Research Assistant [Feb 2023 - Oct 2022] <br>
   Artificial Intelligence and Cybernetics Lab, Independent University, Bangladesh ([AGenCy Lab @ IUB](https://agencylab.github.io/)) <br>
   Dhaka, Bangladesh
 
