@@ -15,6 +15,7 @@ I am working as a software engineer at [Enosis Solutions](https://www.enosisbd.c
 News
 ======
 - **[September 2023]** Started working at [CCDS, Independendent University Bangladesh](https://ccds.ai/) as a Research Assistant
+- **[March 2023]** Ranked 5th in [Apurba presents Bhashabhrom](https://www.kaggle.com/competitions/bengali-ged), a Bangla Grammatical Error Detection contest
 - **[February 2022]** Started working at [AGenCy Lab, Independendent University Bangladesh](https://agencylab.github.io/) as a Research Assistant
 - **[November 2021]** Joined [Enosis Solutions](https://www.enosisbd.com/) as a software engineer.
 - **[June 2021]** Successfully defended undergraduate thesis.
